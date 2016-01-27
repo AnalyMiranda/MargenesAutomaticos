@@ -3,7 +3,7 @@ body {
 }
 #primero {
 	width: 190px;
-	height: 170px;
+	height: 240px;
 	border: 15px solid yellow;
 	padding: 40px 40px;
 	margin:0px;
@@ -12,7 +12,7 @@ body {
 }
 #segundo{
 	width: 200px;
-	height: 160px;
+	height: 240px;
 	border: 15px solid purple;
 	padding: 50px 70px;
 	margin:20px 20px 0px 700px;
