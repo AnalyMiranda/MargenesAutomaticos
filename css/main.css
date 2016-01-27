@@ -15,7 +15,8 @@ h3 {
 #primero {
 	width: 190px;
 	height: 350px;
-	border: 15px solid yellow;
+	border: 10px solid yellow;
+	border-style: dotted;
 	padding: 40px 40px;
 	margin:0px;
 	text-align: center;
@@ -25,6 +26,7 @@ h3 {
 	width: 200px;
 	height: 340px;
 	border: 15px solid purple;
+	border-style: ridge;
 	padding: 50px 70px;
 	margin:20px 20px 0px 700px;
 	text-align: left;
